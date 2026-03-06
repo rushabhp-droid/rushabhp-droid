@@ -2,10 +2,6 @@
 
 ### A passionate Shell developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushabhp-droid&label=Profile views&color=0e75b6&style=flat" alt="rushabhp-droid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushabhp-droid" alt="rushabhp-droid" /></a> </p>
-
 - 🔭 I'm currently working on **Stock Prediction**
 
 - 🌱 I'm currently learning **Python for Artificial Intelligence and Machine Learning**
