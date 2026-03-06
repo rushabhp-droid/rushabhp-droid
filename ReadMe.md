@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stock Prediction via Machine Learning and Neural Networks<br>👯 I’m looking to collaborate on Low Level Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning AIML<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Stock Prediction<br>👯 I’m looking to collaborate on Low Level Projects<br>
 
 
 ## 🌐 Socials:
